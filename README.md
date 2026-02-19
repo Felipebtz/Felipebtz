@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Felipebtz/Felipebtz/main/assets/avatar.png" width="150" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/Felipebtz/Felipebtz/main/felipegitfoto.jpg" width="150" style="border-radius:50%;" />
+
 
 # 👋 Felipe Batista
 
