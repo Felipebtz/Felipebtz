@@ -34,8 +34,8 @@ Atualmente atuando com:
 - 🔭 ETL e pipelines de dados  
 - 📊 Modelagem para plataformas analíticas  
 - 🤖 Agentes de IA com LangChain  
-- 🌐 React, Laravel, Flutter e Kotlin  
-- 🏗️ Java + Spring Boot + DB2 + PostgreSQL  
+- 🌐 MOBILE: React, Laravel, Flutter e Kotlin  
+- 🏗️ WEB: Java + Spring Boot + DB2 + PostgreSQL + Mysql
 
 ---
 
