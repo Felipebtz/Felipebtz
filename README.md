@@ -12,9 +12,11 @@ Software Engineer • Data Engineering • System Architecture
 </samp>
 
 <br><br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Felipebtz&theme=radical&hide_border=true" height="170em"/>
+</div>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Felipebtz&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebtz&layout=compact&theme=radical&hide_border=true"/>
+
 
 </div>
 
