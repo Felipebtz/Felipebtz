@@ -81,7 +81,6 @@ Estou aprofundando a convergência entre **engenharia de software, dados e intel
 
 ### Do toque na tela ao evento processado.
 
-📍 Anápolis, Goiás · 🌎 Aberto a oportunidades remotas
 
 <sub>Engenharia de Software · Arquitetura · Mobile · Backend · Dados · IA</sub>
 
