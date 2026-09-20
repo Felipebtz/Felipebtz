@@ -1,95 +1,88 @@
 <div align="center">
 
-<img src="./assets/mission-control.svg" width="100%" alt="Felipe Batista — Software Engineer building mobile products and distributed systems" />
+<img src="https://raw.githubusercontent.com/Felipebtz/Felipebtz/main/felipegitfoto.jpg" width="118" alt="Felipe Batista" />
+
+# Felipe Batista
+
+### Engenheiro de Software
+
+**Mobile · Backend · Sistemas Distribuídos · Dados & IA**
+
+Construo a experiência que o usuário toca e os sistemas que fazem tudo funcionar.
 
 <br />
 
-<a href="https://www.linkedin.com/in/felipe-btz-20b86b219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:Felipexbas3@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-101828?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Felipebtz?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-6E57E0?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/felipe-btz-20b86b219/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:Felipexbas3@gmail.com"><img src="https://img.shields.io/badge/Email-Conversar-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
 
-## The engineer behind the interface
+<br />
 
-<img align="right" src="https://raw.githubusercontent.com/Felipebtz/Felipebtz/main/felipegitfoto.jpg" width="142" alt="Felipe Batista" />
+<div align="center">
+  <img src="./assets/mobile-backend-transfer.gif" width="100%" alt="Pessoa usando um aplicativo real enquanto o gesto se transforma em um evento enviado ao backend" />
+  <br />
+  <sub>Um toque no app. Um sistema inteiro responde.</sub>
+</div>
 
-I am a Brazilian **Software Engineer** who works where product meets platform: I shape the experience people use and engineer the services, events and data flows that keep it reliable.
+## Eu trabalho nas duas pontas do produto
 
-- **Product & mobile:** React Native, Expo, React and TypeScript
-- **Backend & architecture:** Java, Spring Boot, PHP, Laravel and distributed systems
-- **Data & asynchronous processing:** Kafka, RabbitMQ, SQL, Redis, ETL and Python
-- **Current frontier:** production AI, agents, RAG, evaluation and MLOps
+Sou um engenheiro **full-cycle**: acompanho uma funcionalidade desde a interação real no aplicativo até as regras de negócio, integrações, filas, bancos e monitoramento que sustentam sua execução em produção.
 
-I care about business rules, failure modes, observability and the details that make software trustworthy in production.
+No mobile, penso em experiência, estados, falhas e clareza para o usuário. No backend, penso em domínio, concorrência, idempotência, resiliência e rastreabilidade. Meu trabalho é fazer essas duas pontas conversarem bem.
 
-<br clear="right" />
+## Impacto em produção
 
-## Production footprint
+<!-- Antes de publicar, confirme que estas métricas aproximadas podem ser divulgadas. -->
 
-<!-- Confirm that these approximate, non-confidential metrics may be shared publicly before publishing. -->
+| **180 mil+** | **45 mil+** | **10 milhões+** | **18h → 6h** |
+| :---: | :---: | :---: | :---: |
+| eventos por dia | tarefas assíncronas por dia | registros processados em ETL | redução no processamento de filas |
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>180K+</strong><br /><sub>events / day</sub></td>
-    <td align="center" width="25%"><strong>45K+</strong><br /><sub>async jobs / day</sub></td>
-    <td align="center" width="25%"><strong>10M+</strong><br /><sub>records processed</sub></td>
-    <td align="center" width="25%"><strong>18h → 6h</strong><br /><sub>queue processing</sub></td>
-  </tr>
-</table>
+<p align="center"><sub>Escala aproximada de sistemas que ajudei a construir e evoluir.</sub></p>
 
-<p align="center"><sub>Approximate scale from systems I have helped build and evolve.</sub></p>
+## O que eu construo
 
-## Behind every screen
+### 📱 Produtos mobile
 
-<img src="./assets/system-map.svg" width="100%" alt="Architecture map connecting mobile and web applications to APIs, domain services, event streams, data and observability" />
+Aplicações em React Native e Expo com autenticação social, biometria, chat, notificações, rastreio, checkout e fluxos preparados para falhas reais de rede e API.
 
-## What I ship
+### ⚙️ Backend orientado ao negócio
 
-| Product surface | Engineering underneath |
-| --- | --- |
-| **Commerce & payments** | Checkout flows, payment retries, multi-payment orchestration, order status and complex pricing rules |
-| **Mobile experiences** | Authentication, biometrics, chat, push notifications, tracking and resilient offline-aware flows |
-| **Event-driven communication** | Kafka events, RabbitMQ jobs, idempotency, retries and multi-channel messaging |
-| **Data-intensive services** | ETL pipelines, high-volume SQL, transformations, cache strategies and operational processing |
+Serviços em Java/Spring Boot e PHP/Laravel, APIs REST, regras de checkout e pagamentos, integrações, segurança, persistência e evolução de sistemas legados.
 
-## Core toolkit
+### 📡 Processamento distribuído
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</p>
+Eventos Kafka, filas RabbitMQ, consumidores, retries, idempotência, processamento em segundo plano e comunicação por push, aplicativo, e-mail e WhatsApp.
 
-## Current trajectory
+### 📊 Dados e automação
 
-```text
-software architecture  →  distributed systems, DDD, hexagonal architecture
-data + AI engineering  →  pipelines, LLM applications, RAG, agents, evaluation
-platform engineering   →  cloud, containers, CI/CD, observability, resilience
-```
+ETL com Python e SQL, processamento de grandes volumes, modelagem, otimização de consultas, cache e interesse crescente em sistemas de IA aplicados a produtos.
 
-I am especially interested in the convergence of **software engineering, data and AI**—turning prototypes into observable, maintainable production systems.
+## Tecnologias que sustentam meu trabalho
+
+**Aplicações:** `React Native` `Expo` `React` `Next.js` `TypeScript`
+
+**Backend:** `Java` `Spring Boot` `PHP` `Laravel` `Python`
+
+**Distribuição e dados:** `Kafka` `RabbitMQ` `PostgreSQL` `SQL Server` `DB2` `Redis`
+
+**Plataforma:** `Docker` `Kubernetes` `AWS` `CI/CD` `Observabilidade`
+
+**Arquitetura:** `DDD` `SOLID` `Clean Architecture` `Arquitetura Hexagonal` `Microsserviços`
+
+## Próxima fronteira
+
+Estou aprofundando a convergência entre **engenharia de software, dados e inteligência artificial**: aplicações com LLMs, agentes, RAG, avaliação, observabilidade e MLOps — sempre com foco em sistemas realmente utilizáveis em produção.
 
 ---
 
 <div align="center">
 
-### Good products feel simple because the engineering underneath is not.
+### Do toque na tela ao evento processado.
 
-📍 Anápolis, Goiás, Brazil · 🌎 Open to remote collaboration
+📍 Anápolis, Goiás · 🌎 Aberto a oportunidades remotas
 
-<sub>Software Engineering · Distributed Systems · Mobile · Data · AI</sub>
+<sub>Engenharia de Software · Arquitetura · Mobile · Backend · Dados · IA</sub>
 
 </div>
